@@ -2,7 +2,7 @@
 title: "P8106_hw4_xh2395"
 author: "Xin  He"
 date: "4/26/2020"
-output: pdf_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
